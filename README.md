@@ -25,7 +25,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initial setup of the xcode and getting used to the new IDE.
 
 ## License
 
