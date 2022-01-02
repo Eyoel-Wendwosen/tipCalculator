@@ -19,11 +19,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    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
     
      @IBAction func calculateTip(_ sender: Any) {
          let bill = Double (billAmountTextField.text!) ?? 0
-         let tipPercentages = [0.15, 0.2, 0.25]
+         let tipPercentages = [0.15, 0.18, 0.20]
          
          let tip = bill * tipPercentages[tipControl.selectedSegmentIndex]
          let total = bill + tip
